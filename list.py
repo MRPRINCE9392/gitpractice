@@ -11,3 +11,4 @@ while i<=len(list)-1:
     i=i+1
 print(even_sum)
 print(odd_sum)
+print("the execution is completed")
